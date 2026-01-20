@@ -66,4 +66,5 @@ db.orders.insertMany([
  status: "Pending",
  createdAt: new Date()
 }
+
 ])
